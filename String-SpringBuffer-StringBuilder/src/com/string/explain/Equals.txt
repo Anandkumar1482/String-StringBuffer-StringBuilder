@@ -1,0 +1,5 @@
+
+Equals() for Object Class
+*********************************
+	Object class equals() method meant for reference comparison/address Comparison
+	
